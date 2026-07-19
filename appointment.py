@@ -1,3 +1,3 @@
-print("Hospital Appointment System - Master Version")
+print("Hospital Appointment Booking System")
 print("Patient Registration Module Added")
 print("Login Feature Added")
